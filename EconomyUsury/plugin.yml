@@ -1,9 +1,9 @@
-name: EconomyUsury
-version: 1.0.2
+name: EconomyUsury-GB
+version: 1.0.0
 author: onebone
-api: [3.0.0]
+api: 5.0.0
 main: onebone\economyusury\EconomyUsury
-depend: [EconomyAPI]
+depend: [EconomyAPI-GB]
 
 permissions:
  economyusury.*:
