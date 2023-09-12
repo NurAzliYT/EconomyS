@@ -1,10 +1,10 @@
-# EconomyAPI has been removed from Poggit.
+# EconomyAPI-GB  Available On PocketMine
 
 Please switch to new economy plugins like [BedrockEconomy](https://poggit.pmmp.io/p/BedrockEconomy) or [Capital](https://poggit.pmmp.io/p/Capital) instead.
 
 ## General
 
-[![Poggit Release](https://poggit.pmmp.io/shield.approved/EconomyAPI)](https://poggit.pmmp.io/p/EconomyAPI)
+[![Poggit Release](https://poggit.pmmp.io/shield.approved/EconomyAPI-GB)](https://poggit.pmmp.io/p/EconomyAPI-GB)
 
 A complete suite of Economy plugins by onebone:
 
