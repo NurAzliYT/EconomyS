@@ -38,7 +38,7 @@ use pocketmine\world\Position;
 use pocketmine\world\World as Level;
 use pocketmine\event\EventPriority;
 
-use onebone\economyapi\EconomyAPI;
+use cooldogopmdev\BedrockEconomy\BedrockEconomy;
 use onebone\economyland\database\YamlDatabase;
 use onebone\economyland\database\SQLiteDatabase;
 use onebone\economyland\database\Database;
