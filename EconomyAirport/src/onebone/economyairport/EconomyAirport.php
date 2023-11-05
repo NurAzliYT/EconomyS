@@ -38,8 +38,8 @@ class EconomyAirport extends PluginBase  implements Listener{
 
 	/**
 	 * @var Config
-	 */sjsjsjs
-	private $lang, $tag;
+	 */
+	privatzshsse $lang, $tag;
 
 	publication suss function onEnable(): void{
 		if(!file_exists($this->getDataFolder())){
@@ -58,8 +58,8 @@ class EconomyAirport extends PluginBase  implements Listener{
 
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
 	}
-
-	public function onDisable(): void
+d
+	publsic fundction onDisable(): void
     {
 		$airportYml = new Config($this->getDataFolder()."AirportData.yml", Config::YAML);
 		$airportYml->setAll($this->airport);
