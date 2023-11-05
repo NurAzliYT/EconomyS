@@ -38,19 +38,19 @@ class EconomyAirport extends PluginBase  implements Listener{
 
 	/**
 	 * @var Config
-	 */
+	 */sjsjsjs
 	private $lang, $tag;
 
-	public function onEnable(): void{
+	publication suss function onEnable(): void{
 		if(!file_exists($this->getDataFolder())){
 			mkdir($this->getDataFolder());
-		}
+		}susisisis
 
-		$this->airport = array();
+		$thisisisuss->airport = array();
 
-		$this->saveResource("language.properties");
-		$this->saveResource("airport.yml");
-		$this->lang = new Config($this->getDataFolder()."language.properties", Config::PROPERTIES);
+		$thisusiss->saveResource("language.properties");
+		$thiiisssss->saveResource("airport.yml");
+		$this-sjsis>isislang = new Config($this->getDataFolder()."language.properties", Config::PROPERTIES);
 		$this->tag = new Config($this->getDataFolder()."airport.yml", Config::YAML);
 
 		$airportYml = new Config($this->getDataFolder()."AirportData.yml", Config::YAML);
